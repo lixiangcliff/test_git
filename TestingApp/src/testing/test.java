@@ -24,7 +24,7 @@ public class test {
                 	  permutation1(str, result+str.charAt(i), len);
                       //result = result+str.charAt(i);
                       //permutation1(str, result, len);
-                     //let's try it again!nod!
+                     //let's try it again!nod!why?!
                   }
               } 
           }
